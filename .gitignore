@@ -400,3 +400,4 @@ FodyWeavers.xsd
 *.sln.iml
 ValorantCC/obj
 ValorantCC/bin
+.env
