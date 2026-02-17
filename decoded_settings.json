@@ -1,0 +1,815 @@
+{
+  "actionMappings": [
+    {
+      "alt": false,
+      "bindIndex": 1,
+      "characterName": "Sprinter",
+      "cmd": false,
+      "ctrl": false,
+      "key": "ThumbMouseButton2",
+      "name": "SecondaryTrigger",
+      "shift": false,
+      "tapHoldType": "None"
+    },
+    {
+      "alt": false,
+      "bindIndex": 1,
+      "characterName": "Wushu",
+      "cmd": false,
+      "ctrl": false,
+      "key": "E",
+      "name": "Activate_Primary",
+      "shift": false,
+      "tapHoldType": "None"
+    },
+    {
+      "alt": false,
+      "bindIndex": 1,
+      "characterName": "Sprinter",
+      "cmd": false,
+      "ctrl": false,
+      "key": "E",
+      "name": "Activate_Primary",
+      "shift": false,
+      "tapHoldType": "None"
+    },
+    {
+      "alt": false,
+      "bindIndex": 0,
+      "characterName": "None",
+      "cmd": false,
+      "ctrl": false,
+      "key": "None",
+      "name": "Activate_Primary",
+      "shift": false,
+      "tapHoldType": "None"
+    },
+    {
+      "alt": false,
+      "bindIndex": 1,
+      "characterName": "None",
+      "cmd": false,
+      "ctrl": false,
+      "key": "E",
+      "name": "Activate_Primary",
+      "shift": false,
+      "tapHoldType": "None"
+    },
+    {
+      "alt": false,
+      "bindIndex": 1,
+      "characterName": "Sprinter",
+      "cmd": false,
+      "ctrl": false,
+      "key": "ThumbMouseButton",
+      "name": "Activate_Secondary",
+      "shift": false,
+      "tapHoldType": "None"
+    },
+    {
+      "alt": false,
+      "bindIndex": 0,
+      "characterName": "Wushu",
+      "cmd": false,
+      "ctrl": false,
+      "key": "F",
+      "name": "Activate_Melee",
+      "shift": false,
+      "tapHoldType": "None"
+    },
+    {
+      "alt": false,
+      "bindIndex": 0,
+      "characterName": "Sprinter",
+      "cmd": false,
+      "ctrl": false,
+      "key": "F",
+      "name": "Activate_Melee",
+      "shift": false,
+      "tapHoldType": "None"
+    },
+    {
+      "alt": false,
+      "bindIndex": 1,
+      "characterName": "None",
+      "cmd": false,
+      "ctrl": false,
+      "key": "F",
+      "name": "Activate_Melee",
+      "shift": false,
+      "tapHoldType": "None"
+    },
+    {
+      "alt": false,
+      "bindIndex": 1,
+      "characterName": "Wushu",
+      "cmd": false,
+      "ctrl": false,
+      "key": "Five",
+      "name": "Activate_Ability1",
+      "shift": false,
+      "tapHoldType": "None"
+    },
+    {
+      "alt": false,
+      "bindIndex": 0,
+      "characterName": "Wushu",
+      "cmd": false,
+      "ctrl": false,
+      "key": "None",
+      "name": "Activate_Ability2",
+      "shift": false,
+      "tapHoldType": "None"
+    },
+    {
+      "alt": false,
+      "bindIndex": 1,
+      "characterName": "Wushu",
+      "cmd": false,
+      "ctrl": false,
+      "key": "ThumbMouseButton2",
+      "name": "Activate_Ability2",
+      "shift": false,
+      "tapHoldType": "None"
+    },
+    {
+      "alt": false,
+      "bindIndex": 0,
+      "characterName": "Sprinter",
+      "cmd": false,
+      "ctrl": false,
+      "key": "None",
+      "name": "Activate_Ability2",
+      "shift": false,
+      "tapHoldType": "None"
+    },
+    {
+      "alt": false,
+      "bindIndex": 1,
+      "characterName": "Sprinter",
+      "cmd": false,
+      "ctrl": false,
+      "key": "ThumbMouseButton2",
+      "name": "Activate_Ability2",
+      "shift": false,
+      "tapHoldType": "None"
+    },
+    {
+      "alt": false,
+      "bindIndex": 0,
+      "characterName": "None",
+      "cmd": false,
+      "ctrl": false,
+      "key": "None",
+      "name": "Activate_Ability2",
+      "shift": false,
+      "tapHoldType": "None"
+    },
+    {
+      "alt": false,
+      "bindIndex": 1,
+      "characterName": "None",
+      "cmd": false,
+      "ctrl": false,
+      "key": "ThumbMouseButton2",
+      "name": "Activate_Ability2",
+      "shift": false,
+      "tapHoldType": "None"
+    },
+    {
+      "alt": false,
+      "bindIndex": 0,
+      "characterName": "Wushu",
+      "cmd": false,
+      "ctrl": false,
+      "key": "Three",
+      "name": "EquipLastUsed",
+      "shift": false,
+      "tapHoldType": "None"
+    },
+    {
+      "alt": false,
+      "bindIndex": 1,
+      "characterName": "Wushu",
+      "cmd": false,
+      "ctrl": false,
+      "key": "Five",
+      "name": "Jump",
+      "shift": false,
+      "tapHoldType": "None"
+    },
+    {
+      "alt": false,
+      "bindIndex": 0,
+      "characterName": "Wushu",
+      "cmd": false,
+      "ctrl": false,
+      "key": "V",
+      "name": "UseObject",
+      "shift": false,
+      "tapHoldType": "None"
+    },
+    {
+      "alt": false,
+      "bindIndex": 0,
+      "characterName": "Sprinter",
+      "cmd": false,
+      "ctrl": false,
+      "key": "V",
+      "name": "UseObject",
+      "shift": false,
+      "tapHoldType": "None"
+    },
+    {
+      "alt": false,
+      "bindIndex": 0,
+      "characterName": "None",
+      "cmd": false,
+      "ctrl": false,
+      "key": "V",
+      "name": "UseObject",
+      "shift": false,
+      "tapHoldType": "None"
+    },
+    {
+      "alt": false,
+      "bindIndex": 0,
+      "characterName": "Wushu",
+      "cmd": false,
+      "ctrl": false,
+      "key": "None",
+      "name": "ToggleMouseCursor",
+      "shift": false,
+      "tapHoldType": "None"
+    },
+    {
+      "alt": false,
+      "bindIndex": 0,
+      "characterName": "Sprinter",
+      "cmd": false,
+      "ctrl": false,
+      "key": "None",
+      "name": "ToggleMouseCursor",
+      "shift": false,
+      "tapHoldType": "None"
+    },
+    {
+      "alt": false,
+      "bindIndex": 0,
+      "characterName": "None",
+      "cmd": false,
+      "ctrl": false,
+      "key": "None",
+      "name": "ToggleMouseCursor",
+      "shift": false,
+      "tapHoldType": "None"
+    },
+    {
+      "alt": false,
+      "bindIndex": 0,
+      "characterName": "Wushu",
+      "cmd": false,
+      "ctrl": false,
+      "key": "ThumbMouseButton",
+      "name": "Inspect",
+      "shift": false,
+      "tapHoldType": "None"
+    },
+    {
+      "alt": false,
+      "bindIndex": 0,
+      "characterName": "Sprinter",
+      "cmd": false,
+      "ctrl": false,
+      "key": "None",
+      "name": "Inspect",
+      "shift": false,
+      "tapHoldType": "None"
+    },
+    {
+      "alt": false,
+      "bindIndex": 0,
+      "characterName": "None",
+      "cmd": false,
+      "ctrl": false,
+      "key": "ThumbMouseButton",
+      "name": "Inspect",
+      "shift": false,
+      "tapHoldType": "None"
+    },
+    {
+      "alt": false,
+      "bindIndex": 0,
+      "characterName": "None",
+      "cmd": false,
+      "ctrl": false,
+      "key": "MouseScrollDown",
+      "name": "Ghost",
+      "shift": false,
+      "tapHoldType": "None"
+    },
+    {
+      "alt": false,
+      "bindIndex": 0,
+      "characterName": "Wushu",
+      "cmd": false,
+      "ctrl": false,
+      "key": "MiddleMouseButton",
+      "name": "CommWheelIndex",
+      "shift": false,
+      "tapHoldType": "None"
+    },
+    {
+      "alt": false,
+      "bindIndex": 0,
+      "characterName": "Sprinter",
+      "cmd": false,
+      "ctrl": false,
+      "key": "MiddleMouseButton",
+      "name": "CommWheelIndex",
+      "shift": false,
+      "tapHoldType": "None"
+    },
+    {
+      "alt": false,
+      "bindIndex": 1,
+      "characterName": "Sprinter",
+      "cmd": false,
+      "ctrl": false,
+      "key": "ThumbMouseButton",
+      "name": "CommWheelIndex",
+      "shift": false,
+      "tapHoldType": "None"
+    },
+    {
+      "alt": false,
+      "bindIndex": 0,
+      "characterName": "None",
+      "cmd": false,
+      "ctrl": false,
+      "key": "MiddleMouseButton",
+      "name": "CommWheelIndex",
+      "shift": false,
+      "tapHoldType": "None"
+    },
+    {
+      "alt": false,
+      "bindIndex": 1,
+      "characterName": "None",
+      "cmd": false,
+      "ctrl": false,
+      "key": "ThumbMouseButton",
+      "name": "CommWheelIndex",
+      "shift": false,
+      "tapHoldType": "None"
+    },
+    {
+      "alt": false,
+      "bindIndex": 0,
+      "characterName": "Wushu",
+      "cmd": false,
+      "ctrl": false,
+      "key": "Delete",
+      "name": "VOICE_TeamClutchMuteAction",
+      "shift": false,
+      "tapHoldType": "None"
+    },
+    {
+      "alt": false,
+      "bindIndex": 0,
+      "characterName": "None",
+      "cmd": false,
+      "ctrl": false,
+      "key": "Delete",
+      "name": "VOICE_TeamClutchMuteAction",
+      "shift": false,
+      "tapHoldType": "None"
+    },
+    {
+      "alt": false,
+      "bindIndex": 0,
+      "characterName": "Wushu",
+      "cmd": false,
+      "ctrl": false,
+      "key": "None",
+      "name": "VOICE_TeamPTTAction",
+      "shift": false,
+      "tapHoldType": "None"
+    },
+    {
+      "alt": false,
+      "bindIndex": 0,
+      "characterName": "Sprinter",
+      "cmd": false,
+      "ctrl": false,
+      "key": "None",
+      "name": "VOICE_TeamPTTAction",
+      "shift": false,
+      "tapHoldType": "None"
+    },
+    {
+      "alt": false,
+      "bindIndex": 0,
+      "characterName": "None",
+      "cmd": false,
+      "ctrl": false,
+      "key": "None",
+      "name": "VOICE_TeamPTTAction",
+      "shift": false,
+      "tapHoldType": "None"
+    },
+    {
+      "alt": false,
+      "bindIndex": 0,
+      "characterName": "Wushu",
+      "cmd": false,
+      "ctrl": false,
+      "key": "None",
+      "name": "VOICE_PartyPTTAction",
+      "shift": false,
+      "tapHoldType": "None"
+    },
+    {
+      "alt": false,
+      "bindIndex": 0,
+      "characterName": "Sprinter",
+      "cmd": false,
+      "ctrl": false,
+      "key": "None",
+      "name": "VOICE_PartyPTTAction",
+      "shift": false,
+      "tapHoldType": "None"
+    },
+    {
+      "alt": false,
+      "bindIndex": 0,
+      "characterName": "None",
+      "cmd": false,
+      "ctrl": false,
+      "key": "None",
+      "name": "VOICE_PartyPTTAction",
+      "shift": false,
+      "tapHoldType": "None"
+    }
+  ],
+  "axisMappings": [],
+  "boolSettings": [
+    {
+      "settingEnum": "EAresBoolSettingName::CollectionShowOwnedOnly",
+      "value": true
+    },
+    {
+      "settingEnum": "EAresBoolSettingName::ContextAwareModuleComplete",
+      "value": true
+    },
+    {
+      "settingEnum": "EAresBoolSettingName::CrosshairHasOutline",
+      "value": false
+    },
+    {
+      "settingEnum": "EAresBoolSettingName::CrosshairInnerLinesAllowVertScaling",
+      "value": true
+    },
+    {
+      "settingEnum": "EAresBoolSettingName::CrosshairInnerLinesShowShootingError",
+      "value": false
+    },
+    {
+      "settingEnum": "EAresBoolSettingName::CrosshairOuterLinesShowLines",
+      "value": false
+    },
+    {
+      "settingEnum": "EAresBoolSettingName::CrosshairUseAdvancedOptions",
+      "value": true
+    },
+    {
+      "settingEnum": "EAresBoolSettingName::CrosshairUseCustomColor",
+      "value": true
+    },
+    {
+      "settingEnum": "EAresBoolSettingName::CustomPartyVoiceChatEnabled",
+      "value": true
+    },
+    {
+      "settingEnum": "EAresBoolSettingName::EnableHRTF",
+      "value": true
+    },
+    {
+      "settingEnum": "EAresBoolSettingName::FadeCrosshairWithFiringError",
+      "value": false
+    },
+    {
+      "settingEnum": "EAresBoolSettingName::HasAcceptedCodeOfConduct",
+      "value": true
+    },
+    {
+      "settingEnum": "EAresBoolSettingName::HasAcknowledgedReplay",
+      "value": true
+    },
+    {
+      "settingEnum": "EAresBoolSettingName::HasCompletedAGameWithReplaysAvailable",
+      "value": true
+    },
+    {
+      "settingEnum": "EAresBoolSettingName::HasEverAppliedRoamingSettings",
+      "value": true
+    },
+    {
+      "settingEnum": "EAresBoolSettingName::HasEverStartedAMatch",
+      "value": true
+    },
+    {
+      "settingEnum": "EAresBoolSettingName::HasSeenNewPlayerSettings",
+      "value": true
+    },
+    {
+      "settingEnum": "EAresBoolSettingName::HasSeenPhotoSensitivityWarning",
+      "value": true
+    },
+    {
+      "settingEnum": "EAresBoolSettingName::HasSeenSettingsTutorial",
+      "value": true
+    },
+    {
+      "settingEnum": "EAresBoolSettingName::HasSeenTournamentsScreen",
+      "value": true
+    },
+    {
+      "settingEnum": "EAresBoolSettingName::HideOutlinesAndFresnel",
+      "value": true
+    },
+    {
+      "settingEnum": "EAresBoolSettingName::IncognitoRejectPartyInvitesByDisplayName",
+      "value": true
+    },
+    {
+      "settingEnum": "EAresBoolSettingName::MinimapRotates",
+      "value": false
+    },
+    {
+      "settingEnum": "EAresBoolSettingName::MinimapTranslates",
+      "value": false
+    },
+    {
+      "settingEnum": "EAresBoolSettingName::MuteMusicOnAppWindowDeactivate",
+      "value": true
+    },
+    {
+      "settingEnum": "EAresBoolSettingName::PushToTalkEnabled",
+      "value": true
+    },
+    {
+      "settingEnum": "EAresBoolSettingName::ShootingRangeBotArmorEnabled",
+      "value": true
+    },
+    {
+      "settingEnum": "EAresBoolSettingName::ShowBlood",
+      "value": false
+    },
+    {
+      "settingEnum": "EAresBoolSettingName::ShowBulletTracers",
+      "value": false
+    },
+    {
+      "settingEnum": "EAresBoolSettingName::ShowCorpses",
+      "value": false
+    },
+    {
+      "settingEnum": "EAresBoolSettingName::ShowDeathMarkersOnTimeline",
+      "value": false
+    },
+    {
+      "settingEnum": "EAresBoolSettingName::ShowKeybindsOnMinimap",
+      "value": false
+    },
+    {
+      "settingEnum": "EAresBoolSettingName::ShowUltimateMarkersOnTimeline",
+      "value": false
+    },
+    {
+      "settingEnum": "EAresBoolSettingName::SniperToggleHoldInputCycles",
+      "value": true
+    },
+    {
+      "settingEnum": "EAresBoolSettingName::SpectatorCountWidgetVisible",
+      "value": false
+    },
+    {
+      "settingEnum": "EAresBoolSettingName::TacticalCalloutsInChat",
+      "value": true
+    },
+    {
+      "settingEnum": "EAresBoolSettingName::VoipDucksVOFlavor",
+      "value": true
+    }
+  ],
+  "floatSettings": [
+    {
+      "settingEnum": "EAresFloatSettingName::AllMusicOverallVolume",
+      "value": 0
+    },
+    {
+      "settingEnum": "EAresFloatSettingName::CharacterSelectMusicVolume",
+      "value": 1
+    },
+    {
+      "settingEnum": "EAresFloatSettingName::CrosshairADSInnerLinesFiringErrorScale",
+      "value": 1.0003694295883179
+    },
+    {
+      "settingEnum": "EAresFloatSettingName::CrosshairADSInnerLinesMovementErrorScale",
+      "value": 1.0003694295883179
+    },
+    {
+      "settingEnum": "EAresFloatSettingName::CrosshairADSInnerLinesOpacity",
+      "value": 0.800128698348999
+    },
+    {
+      "settingEnum": "EAresFloatSettingName::CrosshairADSOuterLinesFiringErrorScale",
+      "value": 1.0003694295883179
+    },
+    {
+      "settingEnum": "EAresFloatSettingName::CrosshairADSOuterLinesMovementErrorScale",
+      "value": 1.0003694295883179
+    },
+    {
+      "settingEnum": "EAresFloatSettingName::CrosshairADSOuterLinesOpacity",
+      "value": 0.35012462735176086
+    },
+    {
+      "settingEnum": "EAresFloatSettingName::CrosshairADSOutlineOpacity",
+      "value": 0.5001246333122253
+    },
+    {
+      "settingEnum": "EAresFloatSettingName::CrosshairInnerLinesFiringErrorScale",
+      "value": 1.0007539987564087
+    },
+    {
+      "settingEnum": "EAresFloatSettingName::CrosshairInnerLinesLineLength",
+      "value": 4
+    },
+    {
+      "settingEnum": "EAresFloatSettingName::CrosshairInnerLinesLineLengthVertical",
+      "value": 4
+    },
+    {
+      "settingEnum": "EAresFloatSettingName::CrosshairInnerLinesLineOffset",
+      "value": 0
+    },
+    {
+      "settingEnum": "EAresFloatSettingName::CrosshairInnerLinesMovementErrorScale",
+      "value": 1.0007539987564087
+    },
+    {
+      "settingEnum": "EAresFloatSettingName::CrosshairInnerLinesOpacity",
+      "value": 0.852254331111908
+    },
+    {
+      "settingEnum": "EAresFloatSettingName::CrosshairOuterLinesFiringErrorScale",
+      "value": 1.0007539987564087
+    },
+    {
+      "settingEnum": "EAresFloatSettingName::CrosshairOuterLinesMovementErrorScale",
+      "value": 1.0007539987564087
+    },
+    {
+      "settingEnum": "EAresFloatSettingName::CrosshairOuterLinesOpacity",
+      "value": 0.3502543270587921
+    },
+    {
+      "settingEnum": "EAresFloatSettingName::CrosshairOutlineOpacity",
+      "value": 0.5002543330192566
+    },
+    {
+      "settingEnum": "EAresFloatSettingName::CrosshairSniperCenterDotOpacity",
+      "value": 0.7501286864280701
+    },
+    {
+      "settingEnum": "EAresFloatSettingName::CrosshairSniperCenterDotSize",
+      "value": 1.0005147457122803
+    },
+    {
+      "settingEnum": "EAresFloatSettingName::GamepadBaseRotationSpeedX",
+      "value": 331.277099609375
+    },
+    {
+      "settingEnum": "EAresFloatSettingName::GamepadBaseRotationSpeedY",
+      "value": 114.35104370117188
+    },
+    {
+      "settingEnum": "EAresFloatSettingName::GamepadLookStickInnerDeadzone",
+      "value": 0.1003204807639122
+    },
+    {
+      "settingEnum": "EAresFloatSettingName::GamepadWalkStickInnerDeadzone",
+      "value": 0.20051418244838715
+    },
+    {
+      "settingEnum": "EAresFloatSettingName::MenuAndLobbyMusicVolume",
+      "value": 0
+    },
+    {
+      "settingEnum": "EAresFloatSettingName::MinimapSize",
+      "value": 1.2000000476837158
+    },
+    {
+      "settingEnum": "EAresFloatSettingName::MinimapZoom",
+      "value": 1
+    },
+    {
+      "settingEnum": "EAresFloatSettingName::MouseSensitivity",
+      "value": 0.4000000059604645
+    },
+    {
+      "settingEnum": "EAresFloatSettingName::ObserverRunSpeedModifier",
+      "value": 0.6002870202064514
+    },
+    {
+      "settingEnum": "EAresFloatSettingName::ObserverWalkSpeedModifier",
+      "value": 0.30028700828552246
+    },
+    {
+      "settingEnum": "EAresFloatSettingName::OverallVolume",
+      "value": 0.08250000327825546
+    },
+    {
+      "settingEnum": "EAresFloatSettingName::SoundEffectsVolume",
+      "value": 0.1274999976158142
+    }
+  ],
+  "intSettings": [
+    {
+      "settingEnum": "EAresIntSettingName::LastAcceptedCodeOfConductVersion",
+      "value": 1
+    },
+    {
+      "settingEnum": "EAresIntSettingName::MicSensitivityThreshold",
+      "value": 82
+    },
+    {
+      "settingEnum": "EAresIntSettingName::MicVolume",
+      "value": 81
+    },
+    {
+      "settingEnum": "EAresIntSettingName::PlayerPerfShowFrameRate",
+      "value": 1
+    },
+    {
+      "settingEnum": "EAresIntSettingName::PlayerPerfShowNetworkRtt",
+      "value": 1
+    },
+    {
+      "settingEnum": "EAresIntSettingName::PlayerPerfShowPacketLossPercentage",
+      "value": 1
+    },
+    {
+      "settingEnum": "EAresIntSettingName::ShootingRangeSkillTestSetting",
+      "value": 2
+    },
+    {
+      "settingEnum": "EAresIntSettingName::VoiceVolume",
+      "value": 68
+    }
+  ],
+  "roamingSetttingsVersion": 15,
+  "settingsProfileData": [
+    {
+      "presetIndex": 0,
+      "profileName": "None"
+    },
+    {
+      "presetIndex": 0,
+      "profileName": "Wushu"
+    },
+    {
+      "presetIndex": 0,
+      "profileName": "Sprinter"
+    }
+  ],
+  "settingsProfiles": [
+    "Wushu",
+    "Sprinter"
+  ],
+  "stringSettings": [
+    {
+      "settingEnum": "EAresStringSettingName::CrosshairColor",
+      "value": "(R=0,G=0,B=0,A=255)"
+    },
+    {
+      "settingEnum": "EAresStringSettingName::CrosshairColorCustom",
+      "value": "(R=0,G=0,B=0,A=255)"
+    },
+    {
+      "settingEnum": "EAresStringSettingName::CrosshairProfileName",
+      "value": "Imported Profile 4"
+    },
+    {
+      "settingEnum": "EAresStringSettingName::LastSeenSeasonalPopup",
+      "value": "3EA2B318423BCF8625DA7CBB0EEFBE2D"
+    },
+    {
+      "settingEnum": "EAresStringSettingName::SavedCrosshairProfileData",
+      "value": "{\"currentProfile\":13,\"profiles\":[{\"primary\":{\"color\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"colorCustom\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"bUseCustomColor\":false,\"bHasOutline\":true,\"outlineThickness\":1,\"outlineColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"outlineOpacity\":5.9999997574777808e-06,\"centerDotSize\":1,\"centerDotOpacity\":1,\"bDisplayCenterDot\":true,\"bFadeCrosshairWithFiringError\":false,\"bShowSpectatedPlayerCrosshair\":true,\"bHideCrosshair\":false,\"bFixMinErrorAcrossWeapons\":true,\"innerLines\":{\"lineThickness\":0,\"lineLength\":0,\"lineLengthVertical\":0,\"bAllowVertScaling\":false,\"lineOffset\":0,\"bShowMovementError\":true,\"bShowShootingError\":true,\"bShowMinError\":true,\"opacity\":1,\"bShowLines\":true,\"firingErrorScale\":3,\"movementErrorScale\":3},\"outerLines\":{\"lineThickness\":2,\"lineLength\":2,\"lineLengthVertical\":2,\"bAllowVertScaling\":false,\"lineOffset\":10,\"bShowMovementError\":true,\"bShowShootingError\":true,\"bShowMinError\":true,\"opacity\":0.35488700866699219,\"bShowLines\":false,\"firingErrorScale\":1,\"movementErrorScale\":1}},\"aDS\":{\"color\":{\"b\":255,\"g\":255,\"r\":254,\"a\":255},\"colorCustom\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"bUseCustomColor\":false,\"bHasOutline\":true,\"outlineThickness\":1,\"outlineColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"outlineOpacity\":0.5,\"centerDotSize\":2,\"centerDotOpacity\":1,\"bDisplayCenterDot\":false,\"bFadeCrosshairWithFiringError\":false,\"bShowSpectatedPlayerCrosshair\":false,\"bHideCrosshair\":false,\"bFixMinErrorAcrossWeapons\":false,\"innerLines\":{\"lineThickness\":2,\"lineLength\":6,\"lineLengthVertical\":6,\"bAllowVertScaling\":false,\"lineOffset\":3,\"bShowMovementError\":false,\"bShowShootingError\":true,\"bShowMinError\":true,\"opacity\":0.80000001192092896,\"bShowLines\":true,\"firingErrorScale\":1,\"movementErrorScale\":1},\"outerLines\":{\"lineThickness\":2,\"lineLength\":2,\"lineLengthVertical\":2,\"bAllowVertScaling\":false,\"lineOffset\":10,\"bShowMovementError\":true,\"bShowShootingError\":true,\"bShowMinError\":true,\"opacity\":0.34999999403953552,\"bShowLines\":true,\"firingErrorScale\":1,\"movementErrorScale\":1}},\"focusMode\":{\"color\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"colorCustom\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"bUseCustomColor\":false,\"bHasOutline\":false,\"outlineThickness\":0,\"outlineColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"outlineOpacity\":0,\"centerDotSize\":0,\"centerDotOpacity\":0,\"bDisplayCenterDot\":false,\"bFadeCrosshairWithFiringError\":false,\"bShowSpectatedPlayerCrosshair\":false,\"bHideCrosshair\":false,\"bFixMinErrorAcrossWeapons\":false,\"innerLines\":{\"lineThickness\":0,\"lineLength\":0,\"lineLengthVertical\":0,\"bAllowVertScaling\":false,\"lineOffset\":0,\"bShowMovementError\":false,\"bShowShootingError\":false,\"bShowMinError\":false,\"opacity\":0,\"bShowLines\":false,\"firingErrorScale\":0,\"movementErrorScale\":0},\"outerLines\":{\"lineThickness\":0,\"lineLength\":0,\"lineLengthVertical\":0,\"bAllowVertScaling\":false,\"lineOffset\":0,\"bShowMovementError\":false,\"bShowShootingError\":false,\"bShowMinError\":false,\"opacity\":0,\"bShowLines\":false,\"firingErrorScale\":0,\"movementErrorScale\":0}},\"sniper\":{\"centerDotColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"centerDotColorCustom\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"bUseCustomCenterDotColor\":false,\"centerDotSize\":0.64007383584976196,\"centerDotOpacity\":0.75000202655792236,\"bDisplayCenterDot\":true},\"bUsePrimaryCrosshairForADS\":true,\"bUsePrimaryCrosshairForFocusMode\":false,\"bUseCustomCrosshairOnAllPrimary\":false,\"bUseAdvancedOptions\":true,\"bScaleToResolution\":false,\"profileName\":\"Small DOT\"},{\"primary\":{\"color\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"colorCustom\":{\"b\":165,\"g\":128,\"r\":11,\"a\":255},\"bUseCustomColor\":true,\"bHasOutline\":false,\"outlineThickness\":1,\"outlineColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"outlineOpacity\":3.0000001061125658e-06,\"centerDotSize\":2,\"centerDotOpacity\":1,\"bDisplayCenterDot\":true,\"bFadeCrosshairWithFiringError\":false,\"bShowSpectatedPlayerCrosshair\":true,\"bHideCrosshair\":false,\"bFixMinErrorAcrossWeapons\":true,\"innerLines\":{\"lineThickness\":1,\"lineLength\":7,\"lineLengthVertical\":2,\"bAllowVertScaling\":true,\"lineOffset\":1,\"bShowMovementError\":false,\"bShowShootingError\":false,\"bShowMinError\":true,\"opacity\":1,\"bShowLines\":false,\"firingErrorScale\":1.0000330209732056,\"movementErrorScale\":1.0000330209732056},\"outerLines\":{\"lineThickness\":3,\"lineLength\":4,\"lineLengthVertical\":4,\"bAllowVertScaling\":false,\"lineOffset\":2,\"bShowMovementError\":false,\"bShowShootingError\":false,\"bShowMinError\":true,\"opacity\":1,\"bShowLines\":false,\"firingErrorScale\":1.0000239610671997,\"movementErrorScale\":1.0000239610671997}},\"aDS\":{\"color\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"colorCustom\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"bUseCustomColor\":false,\"bHasOutline\":true,\"outlineThickness\":1,\"outlineColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"outlineOpacity\":0.50000506639480591,\"centerDotSize\":2,\"centerDotOpacity\":1,\"bDisplayCenterDot\":false,\"bFadeCrosshairWithFiringError\":false,\"bShowSpectatedPlayerCrosshair\":false,\"bHideCrosshair\":false,\"bFixMinErrorAcrossWeapons\":false,\"innerLines\":{\"lineThickness\":2,\"lineLength\":6,\"lineLengthVertical\":6,\"bAllowVertScaling\":false,\"lineOffset\":3,\"bShowMovementError\":false,\"bShowShootingError\":true,\"bShowMinError\":true,\"opacity\":0.80000507831573486,\"bShowLines\":true,\"firingErrorScale\":1.0000059604644775,\"movementErrorScale\":1.0000059604644775},\"outerLines\":{\"lineThickness\":2,\"lineLength\":2,\"lineLengthVertical\":2,\"bAllowVertScaling\":false,\"lineOffset\":10,\"bShowMovementError\":true,\"bShowShootingError\":true,\"bShowMinError\":true,\"opacity\":0.35000506043434143,\"bShowLines\":true,\"firingErrorScale\":1.0000059604644775,\"movementErrorScale\":1.0000059604644775}},\"focusMode\":{\"color\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"colorCustom\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"bUseCustomColor\":false,\"bHasOutline\":false,\"outlineThickness\":0,\"outlineColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"outlineOpacity\":0,\"centerDotSize\":0,\"centerDotOpacity\":0,\"bDisplayCenterDot\":false,\"bFadeCrosshairWithFiringError\":false,\"bShowSpectatedPlayerCrosshair\":false,\"bHideCrosshair\":false,\"bFixMinErrorAcrossWeapons\":false,\"innerLines\":{\"lineThickness\":0,\"lineLength\":0,\"lineLengthVertical\":0,\"bAllowVertScaling\":false,\"lineOffset\":0,\"bShowMovementError\":false,\"bShowShootingError\":false,\"bShowMinError\":false,\"opacity\":0,\"bShowLines\":false,\"firingErrorScale\":0,\"movementErrorScale\":0},\"outerLines\":{\"lineThickness\":0,\"lineLength\":0,\"lineLengthVertical\":0,\"bAllowVertScaling\":false,\"lineOffset\":0,\"bShowMovementError\":false,\"bShowShootingError\":false,\"bShowMinError\":false,\"opacity\":0,\"bShowLines\":false,\"firingErrorScale\":0,\"movementErrorScale\":0}},\"sniper\":{\"centerDotColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"centerDotColorCustom\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"bUseCustomCenterDotColor\":false,\"centerDotSize\":1.0000324249267578,\"centerDotOpacity\":0.75000506639480591,\"bDisplayCenterDot\":true},\"bUsePrimaryCrosshairForADS\":true,\"bUsePrimaryCrosshairForFocusMode\":false,\"bUseCustomCrosshairOnAllPrimary\":false,\"bUseAdvancedOptions\":true,\"bScaleToResolution\":false,\"profileName\":\"Normal Dot\"},{\"primary\":{\"color\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"colorCustom\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"bUseCustomColor\":false,\"bHasOutline\":false,\"outlineThickness\":1,\"outlineColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"outlineOpacity\":0.5,\"centerDotSize\":2,\"centerDotOpacity\":1,\"bDisplayCenterDot\":false,\"bFadeCrosshairWithFiringError\":true,\"bShowSpectatedPlayerCrosshair\":true,\"bHideCrosshair\":false,\"bFixMinErrorAcrossWeapons\":false,\"innerLines\":{\"lineThickness\":1,\"lineLength\":7,\"lineLengthVertical\":7,\"bAllowVertScaling\":false,\"lineOffset\":1,\"bShowMovementError\":false,\"bShowShootingError\":false,\"bShowMinError\":true,\"opacity\":1,\"bShowLines\":true,\"firingErrorScale\":1,\"movementErrorScale\":1},\"outerLines\":{\"lineThickness\":3,\"lineLength\":4,\"lineLengthVertical\":2,\"bAllowVertScaling\":false,\"lineOffset\":2,\"bShowMovementError\":false,\"bShowShootingError\":false,\"bShowMinError\":true,\"opacity\":1,\"bShowLines\":true,\"firingErrorScale\":1,\"movementErrorScale\":1}},\"aDS\":{\"color\":{\"b\":255,\"g\":255,\"r\":254,\"a\":255},\"colorCustom\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"bUseCustomColor\":false,\"bHasOutline\":true,\"outlineThickness\":1,\"outlineColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"outlineOpacity\":0.5,\"centerDotSize\":2,\"centerDotOpacity\":1,\"bDisplayCenterDot\":false,\"bFadeCrosshairWithFiringError\":false,\"bShowSpectatedPlayerCrosshair\":false,\"bHideCrosshair\":false,\"bFixMinErrorAcrossWeapons\":false,\"innerLines\":{\"lineThickness\":2,\"lineLength\":6,\"lineLengthVertical\":6,\"bAllowVertScaling\":false,\"lineOffset\":3,\"bShowMovementError\":false,\"bShowShootingError\":true,\"bShowMinError\":true,\"opacity\":0.80000001192092896,\"bShowLines\":true,\"firingErrorScale\":1,\"movementErrorScale\":1},\"outerLines\":{\"lineThickness\":2,\"lineLength\":2,\"lineLengthVertical\":2,\"bAllowVertScaling\":false,\"lineOffset\":10,\"bShowMovementError\":true,\"bShowShootingError\":true,\"bShowMinError\":true,\"opacity\":0.34999999403953552,\"bShowLines\":true,\"firingErrorScale\":1,\"movementErrorScale\":1}},\"focusMode\":{\"color\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"colorCustom\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"bUseCustomColor\":false,\"bHasOutline\":false,\"outlineThickness\":0,\"outlineColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"outlineOpacity\":0,\"centerDotSize\":0,\"centerDotOpacity\":0,\"bDisplayCenterDot\":false,\"bFadeCrosshairWithFiringError\":false,\"bShowSpectatedPlayerCrosshair\":false,\"bHideCrosshair\":false,\"bFixMinErrorAcrossWeapons\":false,\"innerLines\":{\"lineThickness\":0,\"lineLength\":0,\"lineLengthVertical\":0,\"bAllowVertScaling\":false,\"lineOffset\":0,\"bShowMovementError\":false,\"bShowShootingError\":false,\"bShowMinError\":false,\"opacity\":0,\"bShowLines\":false,\"firingErrorScale\":0,\"movementErrorScale\":0},\"outerLines\":{\"lineThickness\":0,\"lineLength\":0,\"lineLengthVertical\":0,\"bAllowVertScaling\":false,\"lineOffset\":0,\"bShowMovementError\":false,\"bShowShootingError\":false,\"bShowMinError\":false,\"opacity\":0,\"bShowLines\":false,\"firingErrorScale\":0,\"movementErrorScale\":0}},\"sniper\":{\"centerDotColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"centerDotColorCustom\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"bUseCustomCenterDotColor\":false,\"centerDotSize\":1.0000162124633789,\"centerDotOpacity\":0.75000405311584473,\"bDisplayCenterDot\":true},\"bUsePrimaryCrosshairForADS\":true,\"bUsePrimaryCrosshairForFocusMode\":false,\"bUseCustomCrosshairOnAllPrimary\":false,\"bUseAdvancedOptions\":true,\"bScaleToResolution\":false,\"profileName\":\"Yellow\"},{\"primary\":{\"color\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"colorCustom\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"bUseCustomColor\":false,\"bHasOutline\":false,\"outlineThickness\":1,\"outlineColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"outlineOpacity\":0.50000303983688354,\"centerDotSize\":2,\"centerDotOpacity\":1,\"bDisplayCenterDot\":false,\"bFadeCrosshairWithFiringError\":false,\"bShowSpectatedPlayerCrosshair\":true,\"bHideCrosshair\":false,\"bFixMinErrorAcrossWeapons\":false,\"innerLines\":{\"lineThickness\":2,\"lineLength\":4,\"lineLengthVertical\":4,\"bAllowVertScaling\":false,\"lineOffset\":0,\"bShowMovementError\":false,\"bShowShootingError\":false,\"bShowMinError\":true,\"opacity\":1,\"bShowLines\":true,\"firingErrorScale\":1.0000059604644775,\"movementErrorScale\":1.0000059604644775},\"outerLines\":{\"lineThickness\":0,\"lineLength\":0,\"lineLengthVertical\":0,\"bAllowVertScaling\":false,\"lineOffset\":10,\"bShowMovementError\":true,\"bShowShootingError\":true,\"bShowMinError\":true,\"opacity\":0.33900606632232666,\"bShowLines\":true,\"firingErrorScale\":1.0000059604644775,\"movementErrorScale\":1.0000059604644775}},\"aDS\":{\"color\":{\"b\":255,\"g\":255,\"r\":254,\"a\":255},\"colorCustom\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"bUseCustomColor\":false,\"bHasOutline\":true,\"outlineThickness\":1,\"outlineColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"outlineOpacity\":0.5,\"centerDotSize\":2,\"centerDotOpacity\":1,\"bDisplayCenterDot\":false,\"bFadeCrosshairWithFiringError\":false,\"bShowSpectatedPlayerCrosshair\":false,\"bHideCrosshair\":false,\"bFixMinErrorAcrossWeapons\":false,\"innerLines\":{\"lineThickness\":2,\"lineLength\":6,\"lineLengthVertical\":6,\"bAllowVertScaling\":false,\"lineOffset\":3,\"bShowMovementError\":false,\"bShowShootingError\":true,\"bShowMinError\":true,\"opacity\":0.80000102519989014,\"bShowLines\":true,\"firingErrorScale\":1,\"movementErrorScale\":1},\"outerLines\":{\"lineThickness\":2,\"lineLength\":2,\"lineLengthVertical\":2,\"bAllowVertScaling\":false,\"lineOffset\":10,\"bShowMovementError\":true,\"bShowShootingError\":true,\"bShowMinError\":true,\"opacity\":0.3500010073184967,\"bShowLines\":true,\"firingErrorScale\":1,\"movementErrorScale\":1}},\"focusMode\":{\"color\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"colorCustom\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"bUseCustomColor\":false,\"bHasOutline\":false,\"outlineThickness\":0,\"outlineColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"outlineOpacity\":0,\"centerDotSize\":0,\"centerDotOpacity\":0,\"bDisplayCenterDot\":false,\"bFadeCrosshairWithFiringError\":false,\"bShowSpectatedPlayerCrosshair\":false,\"bHideCrosshair\":false,\"bFixMinErrorAcrossWeapons\":false,\"innerLines\":{\"lineThickness\":0,\"lineLength\":0,\"lineLengthVertical\":0,\"bAllowVertScaling\":false,\"lineOffset\":0,\"bShowMovementError\":false,\"bShowShootingError\":false,\"bShowMinError\":false,\"opacity\":0,\"bShowLines\":false,\"firingErrorScale\":0,\"movementErrorScale\":0},\"outerLines\":{\"lineThickness\":0,\"lineLength\":0,\"lineLengthVertical\":0,\"bAllowVertScaling\":false,\"lineOffset\":0,\"bShowMovementError\":false,\"bShowShootingError\":false,\"bShowMinError\":false,\"opacity\":0,\"bShowLines\":false,\"firingErrorScale\":0,\"movementErrorScale\":0}},\"sniper\":{\"centerDotColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"centerDotColorCustom\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"bUseCustomCenterDotColor\":false,\"centerDotSize\":1.0000081062316895,\"centerDotOpacity\":0.75000202655792236,\"bDisplayCenterDot\":true},\"bUsePrimaryCrosshairForADS\":true,\"bUsePrimaryCrosshairForFocusMode\":false,\"bUseCustomCrosshairOnAllPrimary\":false,\"bUseAdvancedOptions\":false,\"bScaleToResolution\":false,\"profileName\":\"Red Plus\"},{\"primary\":{\"color\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"colorCustom\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"bUseCustomColor\":false,\"bHasOutline\":false,\"outlineThickness\":1,\"outlineColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"outlineOpacity\":0.5,\"centerDotSize\":2,\"centerDotOpacity\":1,\"bDisplayCenterDot\":false,\"bFadeCrosshairWithFiringError\":true,\"bShowSpectatedPlayerCrosshair\":true,\"bHideCrosshair\":false,\"bFixMinErrorAcrossWeapons\":true,\"innerLines\":{\"lineThickness\":2,\"lineLength\":4,\"lineLengthVertical\":4,\"bAllowVertScaling\":false,\"lineOffset\":2,\"bShowMovementError\":false,\"bShowShootingError\":false,\"bShowMinError\":true,\"opacity\":1,\"bShowLines\":true,\"firingErrorScale\":1,\"movementErrorScale\":1},\"outerLines\":{\"lineThickness\":2,\"lineLength\":2,\"lineLengthVertical\":2,\"bAllowVertScaling\":false,\"lineOffset\":10,\"bShowMovementError\":true,\"bShowShootingError\":true,\"bShowMinError\":true,\"opacity\":0.35000202059745789,\"bShowLines\":false,\"firingErrorScale\":1,\"movementErrorScale\":1}},\"aDS\":{\"color\":{\"b\":255,\"g\":255,\"r\":254,\"a\":255},\"colorCustom\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"bUseCustomColor\":false,\"bHasOutline\":true,\"outlineThickness\":1,\"outlineColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"outlineOpacity\":0.5,\"centerDotSize\":2,\"centerDotOpacity\":1,\"bDisplayCenterDot\":false,\"bFadeCrosshairWithFiringError\":false,\"bShowSpectatedPlayerCrosshair\":false,\"bHideCrosshair\":false,\"bFixMinErrorAcrossWeapons\":false,\"innerLines\":{\"lineThickness\":2,\"lineLength\":6,\"lineLengthVertical\":6,\"bAllowVertScaling\":false,\"lineOffset\":3,\"bShowMovementError\":false,\"bShowShootingError\":true,\"bShowMinError\":true,\"opacity\":0.80000001192092896,\"bShowLines\":true,\"firingErrorScale\":1,\"movementErrorScale\":1},\"outerLines\":{\"lineThickness\":2,\"lineLength\":2,\"lineLengthVertical\":2,\"bAllowVertScaling\":false,\"lineOffset\":10,\"bShowMovementError\":true,\"bShowShootingError\":true,\"bShowMinError\":true,\"opacity\":0.34999999403953552,\"bShowLines\":true,\"firingErrorScale\":1,\"movementErrorScale\":1}},\"focusMode\":{\"color\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"colorCustom\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"bUseCustomColor\":false,\"bHasOutline\":false,\"outlineThickness\":0,\"outlineColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"outlineOpacity\":0,\"centerDotSize\":0,\"centerDotOpacity\":0,\"bDisplayCenterDot\":false,\"bFadeCrosshairWithFiringError\":false,\"bShowSpectatedPlayerCrosshair\":false,\"bHideCrosshair\":false,\"bFixMinErrorAcrossWeapons\":false,\"innerLines\":{\"lineThickness\":0,\"lineLength\":0,\"lineLengthVertical\":0,\"bAllowVertScaling\":false,\"lineOffset\":0,\"bShowMovementError\":false,\"bShowShootingError\":false,\"bShowMinError\":false,\"opacity\":0,\"bShowLines\":false,\"firingErrorScale\":0,\"movementErrorScale\":0},\"outerLines\":{\"lineThickness\":0,\"lineLength\":0,\"lineLengthVertical\":0,\"bAllowVertScaling\":false,\"lineOffset\":0,\"bShowMovementError\":false,\"bShowShootingError\":false,\"bShowMinError\":false,\"opacity\":0,\"bShowLines\":false,\"firingErrorScale\":0,\"movementErrorScale\":0}},\"sniper\":{\"centerDotColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"centerDotColorCustom\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"bUseCustomCenterDotColor\":false,\"centerDotSize\":1.202092170715332,\"centerDotOpacity\":0.68233692646026611,\"bDisplayCenterDot\":true},\"bUsePrimaryCrosshairForADS\":true,\"bUsePrimaryCrosshairForFocusMode\":false,\"bUseCustomCrosshairOnAllPrimary\":false,\"bUseAdvancedOptions\":true,\"bScaleToResolution\":false,\"profileName\":\"Tenz\"},{\"primary\":{\"color\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"colorCustom\":{\"b\":255,\"g\":179,\"r\":224,\"a\":255},\"bUseCustomColor\":false,\"bHasOutline\":false,\"outlineThickness\":1,\"outlineColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"outlineOpacity\":0.50000101327896118,\"centerDotSize\":2,\"centerDotOpacity\":1,\"bDisplayCenterDot\":false,\"bFadeCrosshairWithFiringError\":true,\"bShowSpectatedPlayerCrosshair\":true,\"bHideCrosshair\":false,\"bFixMinErrorAcrossWeapons\":false,\"innerLines\":{\"lineThickness\":2,\"lineLength\":4,\"lineLengthVertical\":4,\"bAllowVertScaling\":false,\"lineOffset\":0,\"bShowMovementError\":false,\"bShowShootingError\":false,\"bShowMinError\":true,\"opacity\":1,\"bShowLines\":true,\"firingErrorScale\":1,\"movementErrorScale\":1},\"outerLines\":{\"lineThickness\":2,\"lineLength\":2,\"lineLengthVertical\":2,\"bAllowVertScaling\":false,\"lineOffset\":10,\"bShowMovementError\":true,\"bShowShootingError\":true,\"bShowMinError\":true,\"opacity\":0.3500010073184967,\"bShowLines\":false,\"firingErrorScale\":1,\"movementErrorScale\":1}},\"aDS\":{\"color\":{\"b\":255,\"g\":255,\"r\":254,\"a\":255},\"colorCustom\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"bUseCustomColor\":false,\"bHasOutline\":true,\"outlineThickness\":1,\"outlineColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"outlineOpacity\":0.5,\"centerDotSize\":2,\"centerDotOpacity\":1,\"bDisplayCenterDot\":false,\"bFadeCrosshairWithFiringError\":false,\"bShowSpectatedPlayerCrosshair\":false,\"bHideCrosshair\":false,\"bFixMinErrorAcrossWeapons\":false,\"innerLines\":{\"lineThickness\":2,\"lineLength\":6,\"lineLengthVertical\":6,\"bAllowVertScaling\":false,\"lineOffset\":3,\"bShowMovementError\":false,\"bShowShootingError\":true,\"bShowMinError\":true,\"opacity\":0.80000001192092896,\"bShowLines\":true,\"firingErrorScale\":1,\"movementErrorScale\":1},\"outerLines\":{\"lineThickness\":2,\"lineLength\":2,\"lineLengthVertical\":2,\"bAllowVertScaling\":false,\"lineOffset\":10,\"bShowMovementError\":true,\"bShowShootingError\":true,\"bShowMinError\":true,\"opacity\":0.34999999403953552,\"bShowLines\":true,\"firingErrorScale\":1,\"movementErrorScale\":1}},\"focusMode\":{\"color\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"colorCustom\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"bUseCustomColor\":false,\"bHasOutline\":false,\"outlineThickness\":0,\"outlineColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"outlineOpacity\":0,\"centerDotSize\":0,\"centerDotOpacity\":0,\"bDisplayCenterDot\":false,\"bFadeCrosshairWithFiringError\":false,\"bShowSpectatedPlayerCrosshair\":false,\"bHideCrosshair\":false,\"bFixMinErrorAcrossWeapons\":false,\"innerLines\":{\"lineThickness\":0,\"lineLength\":0,\"lineLengthVertical\":0,\"bAllowVertScaling\":false,\"lineOffset\":0,\"bShowMovementError\":false,\"bShowShootingError\":false,\"bShowMinError\":false,\"opacity\":0,\"bShowLines\":false,\"firingErrorScale\":0,\"movementErrorScale\":0},\"outerLines\":{\"lineThickness\":0,\"lineLength\":0,\"lineLengthVertical\":0,\"bAllowVertScaling\":false,\"lineOffset\":0,\"bShowMovementError\":false,\"bShowShootingError\":false,\"bShowMinError\":false,\"opacity\":0,\"bShowLines\":false,\"firingErrorScale\":0,\"movementErrorScale\":0}},\"sniper\":{\"centerDotColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"centerDotColorCustom\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"bUseCustomCenterDotColor\":false,\"centerDotSize\":1.0000040531158447,\"centerDotOpacity\":0.75000101327896118,\"bDisplayCenterDot\":true},\"bUsePrimaryCrosshairForADS\":true,\"bUsePrimaryCrosshairForFocusMode\":false,\"bUseCustomCrosshairOnAllPrimary\":false,\"bUseAdvancedOptions\":false,\"bScaleToResolution\":false,\"profileName\":\"PURPLE GIRLY\"},{\"primary\":{\"color\":{\"b\":255,\"g\":255,\"r\":254,\"a\":255},\"colorCustom\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"bUseCustomColor\":false,\"bHasOutline\":false,\"outlineThickness\":1,\"outlineColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"outlineOpacity\":0.50000202655792236,\"centerDotSize\":2,\"centerDotOpacity\":1,\"bDisplayCenterDot\":false,\"bFadeCrosshairWithFiringError\":false,\"bShowSpectatedPlayerCrosshair\":true,\"bHideCrosshair\":false,\"bFixMinErrorAcrossWeapons\":false,\"innerLines\":{\"lineThickness\":2,\"lineLength\":5,\"lineLengthVertical\":5,\"bAllowVertScaling\":false,\"lineOffset\":0,\"bShowMovementError\":false,\"bShowShootingError\":false,\"bShowMinError\":true,\"opacity\":1,\"bShowLines\":true,\"firingErrorScale\":1,\"movementErrorScale\":1.0000059604644775},\"outerLines\":{\"lineThickness\":2,\"lineLength\":2,\"lineLengthVertical\":2,\"bAllowVertScaling\":false,\"lineOffset\":10,\"bShowMovementError\":true,\"bShowShootingError\":true,\"bShowMinError\":true,\"opacity\":0.35000506043434143,\"bShowLines\":false,\"firingErrorScale\":1,\"movementErrorScale\":1}},\"aDS\":{\"color\":{\"b\":255,\"g\":255,\"r\":254,\"a\":255},\"colorCustom\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"bUseCustomColor\":false,\"bHasOutline\":true,\"outlineThickness\":1,\"outlineColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"outlineOpacity\":0.5,\"centerDotSize\":2,\"centerDotOpacity\":1,\"bDisplayCenterDot\":false,\"bFadeCrosshairWithFiringError\":false,\"bShowSpectatedPlayerCrosshair\":false,\"bHideCrosshair\":false,\"bFixMinErrorAcrossWeapons\":false,\"innerLines\":{\"lineThickness\":2,\"lineLength\":6,\"lineLengthVertical\":6,\"bAllowVertScaling\":false,\"lineOffset\":3,\"bShowMovementError\":false,\"bShowShootingError\":true,\"bShowMinError\":true,\"opacity\":0.80000001192092896,\"bShowLines\":true,\"firingErrorScale\":1,\"movementErrorScale\":1},\"outerLines\":{\"lineThickness\":2,\"lineLength\":2,\"lineLengthVertical\":2,\"bAllowVertScaling\":false,\"lineOffset\":10,\"bShowMovementError\":true,\"bShowShootingError\":true,\"bShowMinError\":true,\"opacity\":0.34999999403953552,\"bShowLines\":true,\"firingErrorScale\":1,\"movementErrorScale\":1}},\"focusMode\":{\"color\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"colorCustom\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"bUseCustomColor\":false,\"bHasOutline\":false,\"outlineThickness\":0,\"outlineColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"outlineOpacity\":0,\"centerDotSize\":0,\"centerDotOpacity\":0,\"bDisplayCenterDot\":false,\"bFadeCrosshairWithFiringError\":false,\"bShowSpectatedPlayerCrosshair\":false,\"bHideCrosshair\":false,\"bFixMinErrorAcrossWeapons\":false,\"innerLines\":{\"lineThickness\":0,\"lineLength\":0,\"lineLengthVertical\":0,\"bAllowVertScaling\":false,\"lineOffset\":0,\"bShowMovementError\":false,\"bShowShootingError\":false,\"bShowMinError\":false,\"opacity\":0,\"bShowLines\":false,\"firingErrorScale\":0,\"movementErrorScale\":0},\"outerLines\":{\"lineThickness\":0,\"lineLength\":0,\"lineLengthVertical\":0,\"bAllowVertScaling\":false,\"lineOffset\":0,\"bShowMovementError\":false,\"bShowShootingError\":false,\"bShowMinError\":false,\"opacity\":0,\"bShowLines\":false,\"firingErrorScale\":0,\"movementErrorScale\":0}},\"sniper\":{\"centerDotColor\":{\"b\":0,\"g\":0,\"r\":254,\"a\":255},\"centerDotColorCustom\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"bUseCustomCenterDotColor\":false,\"centerDotSize\":1,\"centerDotOpacity\":0.75,\"bDisplayCenterDot\":true},\"bUsePrimaryCrosshairForADS\":true,\"bUsePrimaryCrosshairForFocusMode\":false,\"bUseCustomCrosshairOnAllPrimary\":false,\"bUseAdvancedOptions\":false,\"bScaleToResolution\":false,\"profileName\":\"cned\"},{\"primary\":{\"color\":{\"b\":255,\"g\":254,\"r\":0,\"a\":255},\"colorCustom\":{\"b\":159,\"g\":141,\"r\":242,\"a\":255},\"bUseCustomColor\":false,\"bHasOutline\":false,\"outlineThickness\":1,\"outlineColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"outlineOpacity\":0.50000303983688354,\"centerDotSize\":3,\"centerDotOpacity\":1,\"bDisplayCenterDot\":true,\"bFadeCrosshairWithFiringError\":true,\"bShowSpectatedPlayerCrosshair\":true,\"bHideCrosshair\":false,\"bFixMinErrorAcrossWeapons\":false,\"innerLines\":{\"lineThickness\":1,\"lineLength\":10,\"lineLengthVertical\":19,\"bAllowVertScaling\":true,\"lineOffset\":1,\"bShowMovementError\":false,\"bShowShootingError\":false,\"bShowMinError\":true,\"opacity\":0.11900299787521362,\"bShowLines\":true,\"firingErrorScale\":1.0000059604644775,\"movementErrorScale\":1.0000059604644775},\"outerLines\":{\"lineThickness\":1,\"lineLength\":5,\"lineLengthVertical\":10,\"bAllowVertScaling\":true,\"lineOffset\":0,\"bShowMovementError\":false,\"bShowShootingError\":false,\"bShowMinError\":true,\"opacity\":0.3170030415058136,\"bShowLines\":true,\"firingErrorScale\":1.0000059604644775,\"movementErrorScale\":1.0000059604644775}},\"aDS\":{\"color\":{\"b\":255,\"g\":255,\"r\":254,\"a\":255},\"colorCustom\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"bUseCustomColor\":false,\"bHasOutline\":true,\"outlineThickness\":1,\"outlineColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"outlineOpacity\":0.50000202655792236,\"centerDotSize\":2,\"centerDotOpacity\":1,\"bDisplayCenterDot\":false,\"bFadeCrosshairWithFiringError\":false,\"bShowSpectatedPlayerCrosshair\":false,\"bHideCrosshair\":false,\"bFixMinErrorAcrossWeapons\":false,\"innerLines\":{\"lineThickness\":2,\"lineLength\":6,\"lineLengthVertical\":6,\"bAllowVertScaling\":false,\"lineOffset\":3,\"bShowMovementError\":false,\"bShowShootingError\":true,\"bShowMinError\":true,\"opacity\":0.80000203847885132,\"bShowLines\":true,\"firingErrorScale\":1.0000059604644775,\"movementErrorScale\":1.0000059604644775},\"outerLines\":{\"lineThickness\":2,\"lineLength\":2,\"lineLengthVertical\":2,\"bAllowVertScaling\":false,\"lineOffset\":10,\"bShowMovementError\":true,\"bShowShootingError\":true,\"bShowMinError\":true,\"opacity\":0.35000202059745789,\"bShowLines\":true,\"firingErrorScale\":1.0000059604644775,\"movementErrorScale\":1.0000059604644775}},\"focusMode\":{\"color\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"colorCustom\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"bUseCustomColor\":false,\"bHasOutline\":false,\"outlineThickness\":0,\"outlineColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"outlineOpacity\":0,\"centerDotSize\":0,\"centerDotOpacity\":0,\"bDisplayCenterDot\":false,\"bFadeCrosshairWithFiringError\":false,\"bShowSpectatedPlayerCrosshair\":false,\"bHideCrosshair\":false,\"bFixMinErrorAcrossWeapons\":false,\"innerLines\":{\"lineThickness\":0,\"lineLength\":0,\"lineLengthVertical\":0,\"bAllowVertScaling\":false,\"lineOffset\":0,\"bShowMovementError\":false,\"bShowShootingError\":false,\"bShowMinError\":false,\"opacity\":0,\"bShowLines\":false,\"firingErrorScale\":0,\"movementErrorScale\":0},\"outerLines\":{\"lineThickness\":0,\"lineLength\":0,\"lineLengthVertical\":0,\"bAllowVertScaling\":false,\"lineOffset\":0,\"bShowMovementError\":false,\"bShowShootingError\":false,\"bShowMinError\":false,\"opacity\":0,\"bShowLines\":false,\"firingErrorScale\":0,\"movementErrorScale\":0}},\"sniper\":{\"centerDotColor\":{\"b\":0,\"g\":0,\"r\":254,\"a\":255},\"centerDotColorCustom\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"bUseCustomCenterDotColor\":false,\"centerDotSize\":1.0000121593475342,\"centerDotOpacity\":0.75000303983688354,\"bDisplayCenterDot\":true},\"bUsePrimaryCrosshairForADS\":true,\"bUsePrimaryCrosshairForFocusMode\":false,\"bUseCustomCrosshairOnAllPrimary\":false,\"bUseAdvancedOptions\":false,\"bScaleToResolution\":false,\"profileName\":\"Unique Star\"},{\"primary\":{\"color\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"colorCustom\":{\"b\":0,\"g\":255,\"r\":187,\"a\":255},\"bUseCustomColor\":false,\"bHasOutline\":true,\"outlineThickness\":1,\"outlineColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"outlineOpacity\":0.40000101923942566,\"centerDotSize\":2,\"centerDotOpacity\":1,\"bDisplayCenterDot\":false,\"bFadeCrosshairWithFiringError\":false,\"bShowSpectatedPlayerCrosshair\":true,\"bHideCrosshair\":false,\"bFixMinErrorAcrossWeapons\":false,\"innerLines\":{\"lineThickness\":2,\"lineLength\":4,\"lineLengthVertical\":4,\"bAllowVertScaling\":false,\"lineOffset\":0,\"bShowMovementError\":false,\"bShowShootingError\":false,\"bShowMinError\":true,\"opacity\":1,\"bShowLines\":true,\"firingErrorScale\":1,\"movementErrorScale\":1},\"outerLines\":{\"lineThickness\":8,\"lineLength\":1,\"lineLengthVertical\":1,\"bAllowVertScaling\":false,\"lineOffset\":0,\"bShowMovementError\":false,\"bShowShootingError\":false,\"bShowMinError\":true,\"opacity\":1,\"bShowLines\":true,\"firingErrorScale\":1,\"movementErrorScale\":1}},\"aDS\":{\"color\":{\"b\":255,\"g\":255,\"r\":254,\"a\":255},\"colorCustom\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"bUseCustomColor\":false,\"bHasOutline\":true,\"outlineThickness\":1,\"outlineColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"outlineOpacity\":0.5,\"centerDotSize\":2,\"centerDotOpacity\":1,\"bDisplayCenterDot\":false,\"bFadeCrosshairWithFiringError\":false,\"bShowSpectatedPlayerCrosshair\":false,\"bHideCrosshair\":false,\"bFixMinErrorAcrossWeapons\":false,\"innerLines\":{\"lineThickness\":2,\"lineLength\":6,\"lineLengthVertical\":6,\"bAllowVertScaling\":false,\"lineOffset\":3,\"bShowMovementError\":false,\"bShowShootingError\":true,\"bShowMinError\":true,\"opacity\":0.80000001192092896,\"bShowLines\":true,\"firingErrorScale\":1,\"movementErrorScale\":1},\"outerLines\":{\"lineThickness\":2,\"lineLength\":2,\"lineLengthVertical\":2,\"bAllowVertScaling\":false,\"lineOffset\":10,\"bShowMovementError\":true,\"bShowShootingError\":true,\"bShowMinError\":true,\"opacity\":0.34999999403953552,\"bShowLines\":true,\"firingErrorScale\":1,\"movementErrorScale\":1}},\"focusMode\":{\"color\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"colorCustom\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"bUseCustomColor\":false,\"bHasOutline\":false,\"outlineThickness\":0,\"outlineColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"outlineOpacity\":0,\"centerDotSize\":0,\"centerDotOpacity\":0,\"bDisplayCenterDot\":false,\"bFadeCrosshairWithFiringError\":false,\"bShowSpectatedPlayerCrosshair\":false,\"bHideCrosshair\":false,\"bFixMinErrorAcrossWeapons\":false,\"innerLines\":{\"lineThickness\":0,\"lineLength\":0,\"lineLengthVertical\":0,\"bAllowVertScaling\":false,\"lineOffset\":0,\"bShowMovementError\":false,\"bShowShootingError\":false,\"bShowMinError\":false,\"opacity\":0,\"bShowLines\":false,\"firingErrorScale\":0,\"movementErrorScale\":0},\"outerLines\":{\"lineThickness\":0,\"lineLength\":0,\"lineLengthVertical\":0,\"bAllowVertScaling\":false,\"lineOffset\":0,\"bShowMovementError\":false,\"bShowShootingError\":false,\"bShowMinError\":false,\"opacity\":0,\"bShowLines\":false,\"firingErrorScale\":0,\"movementErrorScale\":0}},\"sniper\":{\"centerDotColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"centerDotColorCustom\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"bUseCustomCenterDotColor\":false,\"centerDotSize\":0.93300402164459229,\"centerDotOpacity\":1,\"bDisplayCenterDot\":true},\"bUsePrimaryCrosshairForADS\":true,\"bUsePrimaryCrosshairForFocusMode\":false,\"bUseCustomCrosshairOnAllPrimary\":false,\"bUseAdvancedOptions\":true,\"bScaleToResolution\":false,\"profileName\":\"Latest Tenz\"},{\"primary\":{\"color\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"colorCustom\":{\"b\":255,\"g\":255,\"r\":254,\"a\":255},\"bUseCustomColor\":false,\"bHasOutline\":true,\"outlineThickness\":1,\"outlineColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"outlineOpacity\":1,\"centerDotSize\":2,\"centerDotOpacity\":1,\"bDisplayCenterDot\":false,\"bFadeCrosshairWithFiringError\":true,\"bShowSpectatedPlayerCrosshair\":true,\"bHideCrosshair\":false,\"bFixMinErrorAcrossWeapons\":false,\"innerLines\":{\"lineThickness\":1,\"lineLength\":2,\"lineLengthVertical\":2,\"bAllowVertScaling\":false,\"lineOffset\":2,\"bShowMovementError\":false,\"bShowShootingError\":false,\"bShowMinError\":true,\"opacity\":1,\"bShowLines\":true,\"firingErrorScale\":1.0000180006027222,\"movementErrorScale\":1.0000180006027222},\"outerLines\":{\"lineThickness\":2,\"lineLength\":2,\"lineLengthVertical\":2,\"bAllowVertScaling\":false,\"lineOffset\":10,\"bShowMovementError\":true,\"bShowShootingError\":true,\"bShowMinError\":true,\"opacity\":0.35001114010810852,\"bShowLines\":false,\"firingErrorScale\":1.0000180006027222,\"movementErrorScale\":1.0000180006027222}},\"aDS\":{\"color\":{\"b\":0,\"g\":255,\"r\":254,\"a\":255},\"colorCustom\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"bUseCustomColor\":false,\"bHasOutline\":true,\"outlineThickness\":1,\"outlineColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"outlineOpacity\":0.50000303983688354,\"centerDotSize\":2,\"centerDotOpacity\":1,\"bDisplayCenterDot\":false,\"bFadeCrosshairWithFiringError\":false,\"bShowSpectatedPlayerCrosshair\":false,\"bHideCrosshair\":false,\"bFixMinErrorAcrossWeapons\":false,\"innerLines\":{\"lineThickness\":2,\"lineLength\":6,\"lineLengthVertical\":6,\"bAllowVertScaling\":false,\"lineOffset\":3,\"bShowMovementError\":false,\"bShowShootingError\":true,\"bShowMinError\":true,\"opacity\":0.8000030517578125,\"bShowLines\":true,\"firingErrorScale\":1,\"movementErrorScale\":1},\"outerLines\":{\"lineThickness\":2,\"lineLength\":2,\"lineLengthVertical\":2,\"bAllowVertScaling\":false,\"lineOffset\":10,\"bShowMovementError\":true,\"bShowShootingError\":true,\"bShowMinError\":true,\"opacity\":0.3500010073184967,\"bShowLines\":true,\"firingErrorScale\":1,\"movementErrorScale\":1}},\"focusMode\":{\"color\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"colorCustom\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"bUseCustomColor\":false,\"bHasOutline\":false,\"outlineThickness\":0,\"outlineColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"outlineOpacity\":0,\"centerDotSize\":0,\"centerDotOpacity\":0,\"bDisplayCenterDot\":false,\"bFadeCrosshairWithFiringError\":false,\"bShowSpectatedPlayerCrosshair\":false,\"bHideCrosshair\":false,\"bFixMinErrorAcrossWeapons\":false,\"innerLines\":{\"lineThickness\":0,\"lineLength\":0,\"lineLengthVertical\":0,\"bAllowVertScaling\":false,\"lineOffset\":0,\"bShowMovementError\":false,\"bShowShootingError\":false,\"bShowMinError\":false,\"opacity\":0,\"bShowLines\":false,\"firingErrorScale\":0,\"movementErrorScale\":0},\"outerLines\":{\"lineThickness\":0,\"lineLength\":0,\"lineLengthVertical\":0,\"bAllowVertScaling\":false,\"lineOffset\":0,\"bShowMovementError\":false,\"bShowShootingError\":false,\"bShowMinError\":false,\"opacity\":0,\"bShowLines\":false,\"firingErrorScale\":0,\"movementErrorScale\":0}},\"sniper\":{\"centerDotColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"centerDotColorCustom\":{\"b\":255,\"g\":254,\"r\":0,\"a\":255},\"bUseCustomCenterDotColor\":false,\"centerDotSize\":1.0000121593475342,\"centerDotOpacity\":0.75000303983688354,\"bDisplayCenterDot\":true},\"bUsePrimaryCrosshairForADS\":true,\"bUsePrimaryCrosshairForFocusMode\":false,\"bUseCustomCrosshairOnAllPrimary\":false,\"bUseAdvancedOptions\":true,\"bScaleToResolution\":false,\"profileName\":\"Neon Light\"},{\"primary\":{\"color\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"colorCustom\":{\"b\":0,\"g\":255,\"r\":42,\"a\":255},\"bUseCustomColor\":false,\"bHasOutline\":false,\"outlineThickness\":1,\"outlineColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"outlineOpacity\":1.0000000656873453e-05,\"centerDotSize\":2,\"centerDotOpacity\":1,\"bDisplayCenterDot\":true,\"bFadeCrosshairWithFiringError\":false,\"bShowSpectatedPlayerCrosshair\":true,\"bHideCrosshair\":false,\"bFixMinErrorAcrossWeapons\":true,\"innerLines\":{\"lineThickness\":1,\"lineLength\":2,\"lineLengthVertical\":2,\"bAllowVertScaling\":true,\"lineOffset\":1,\"bShowMovementError\":false,\"bShowShootingError\":false,\"bShowMinError\":true,\"opacity\":1,\"bShowLines\":false,\"firingErrorScale\":1.0000180006027222,\"movementErrorScale\":1.0000180006027222},\"outerLines\":{\"lineThickness\":3,\"lineLength\":4,\"lineLengthVertical\":4,\"bAllowVertScaling\":false,\"lineOffset\":2,\"bShowMovementError\":false,\"bShowShootingError\":false,\"bShowMinError\":true,\"opacity\":1,\"bShowLines\":false,\"firingErrorScale\":1.0000180006027222,\"movementErrorScale\":1.0000180006027222}},\"aDS\":{\"color\":{\"b\":0,\"g\":255,\"r\":254,\"a\":255},\"colorCustom\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"bUseCustomColor\":false,\"bHasOutline\":true,\"outlineThickness\":1,\"outlineColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"outlineOpacity\":0.50000303983688354,\"centerDotSize\":2,\"centerDotOpacity\":1,\"bDisplayCenterDot\":false,\"bFadeCrosshairWithFiringError\":false,\"bShowSpectatedPlayerCrosshair\":false,\"bHideCrosshair\":false,\"bFixMinErrorAcrossWeapons\":false,\"innerLines\":{\"lineThickness\":2,\"lineLength\":6,\"lineLengthVertical\":6,\"bAllowVertScaling\":false,\"lineOffset\":3,\"bShowMovementError\":false,\"bShowShootingError\":true,\"bShowMinError\":true,\"opacity\":0.80000811815261841,\"bShowLines\":true,\"firingErrorScale\":1.0000029802322388,\"movementErrorScale\":1.0000029802322388},\"outerLines\":{\"lineThickness\":2,\"lineLength\":2,\"lineLengthVertical\":2,\"bAllowVertScaling\":false,\"lineOffset\":10,\"bShowMovementError\":true,\"bShowShootingError\":true,\"bShowMinError\":true,\"opacity\":0.35000303387641907,\"bShowLines\":true,\"firingErrorScale\":1.0000029802322388,\"movementErrorScale\":1.0000029802322388}},\"focusMode\":{\"color\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"colorCustom\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"bUseCustomColor\":false,\"bHasOutline\":false,\"outlineThickness\":0,\"outlineColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"outlineOpacity\":0,\"centerDotSize\":0,\"centerDotOpacity\":0,\"bDisplayCenterDot\":false,\"bFadeCrosshairWithFiringError\":false,\"bShowSpectatedPlayerCrosshair\":false,\"bHideCrosshair\":false,\"bFixMinErrorAcrossWeapons\":false,\"innerLines\":{\"lineThickness\":0,\"lineLength\":0,\"lineLengthVertical\":0,\"bAllowVertScaling\":false,\"lineOffset\":0,\"bShowMovementError\":false,\"bShowShootingError\":false,\"bShowMinError\":false,\"opacity\":0,\"bShowLines\":false,\"firingErrorScale\":0,\"movementErrorScale\":0},\"outerLines\":{\"lineThickness\":0,\"lineLength\":0,\"lineLengthVertical\":0,\"bAllowVertScaling\":false,\"lineOffset\":0,\"bShowMovementError\":false,\"bShowShootingError\":false,\"bShowMinError\":false,\"opacity\":0,\"bShowLines\":false,\"firingErrorScale\":0,\"movementErrorScale\":0}},\"sniper\":{\"centerDotColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"centerDotColorCustom\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"bUseCustomCenterDotColor\":false,\"centerDotSize\":1.0000324249267578,\"centerDotOpacity\":0.75000810623168945,\"bDisplayCenterDot\":true},\"bUsePrimaryCrosshairForADS\":true,\"bUsePrimaryCrosshairForFocusMode\":false,\"bUseCustomCrosshairOnAllPrimary\":false,\"bUseAdvancedOptions\":true,\"bScaleToResolution\":false,\"profileName\":\"Imported Profile 1\"},{\"primary\":{\"color\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"colorCustom\":{\"b\":255,\"g\":161,\"r\":0,\"a\":255},\"bUseCustomColor\":false,\"bHasOutline\":false,\"outlineThickness\":1,\"outlineColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"outlineOpacity\":0.50003039836883545,\"centerDotSize\":2,\"centerDotOpacity\":1,\"bDisplayCenterDot\":false,\"bFadeCrosshairWithFiringError\":true,\"bShowSpectatedPlayerCrosshair\":true,\"bHideCrosshair\":false,\"bFixMinErrorAcrossWeapons\":false,\"innerLines\":{\"lineThickness\":1,\"lineLength\":2,\"lineLengthVertical\":2,\"bAllowVertScaling\":false,\"lineOffset\":0,\"bShowMovementError\":false,\"bShowShootingError\":false,\"bShowMinError\":true,\"opacity\":1,\"bShowLines\":true,\"firingErrorScale\":1.0000901222229004,\"movementErrorScale\":1.0000901222229004},\"outerLines\":{\"lineThickness\":2,\"lineLength\":2,\"lineLengthVertical\":2,\"bAllowVertScaling\":false,\"lineOffset\":10,\"bShowMovementError\":true,\"bShowShootingError\":true,\"bShowMinError\":true,\"opacity\":0.35003039240837097,\"bShowLines\":false,\"firingErrorScale\":1.0000901222229004,\"movementErrorScale\":1.0000901222229004}},\"aDS\":{\"color\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"colorCustom\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"bUseCustomColor\":false,\"bHasOutline\":false,\"outlineThickness\":1,\"outlineColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"outlineOpacity\":0.50001215934753418,\"centerDotSize\":2,\"centerDotOpacity\":1,\"bDisplayCenterDot\":false,\"bFadeCrosshairWithFiringError\":false,\"bShowSpectatedPlayerCrosshair\":false,\"bHideCrosshair\":false,\"bFixMinErrorAcrossWeapons\":false,\"innerLines\":{\"lineThickness\":1,\"lineLength\":3,\"lineLengthVertical\":3,\"bAllowVertScaling\":false,\"lineOffset\":0,\"bShowMovementError\":false,\"bShowShootingError\":false,\"bShowMinError\":true,\"opacity\":1,\"bShowLines\":true,\"firingErrorScale\":1.0000330209732056,\"movementErrorScale\":1.0000330209732056},\"outerLines\":{\"lineThickness\":2,\"lineLength\":2,\"lineLengthVertical\":2,\"bAllowVertScaling\":false,\"lineOffset\":10,\"bShowMovementError\":true,\"bShowShootingError\":true,\"bShowMinError\":true,\"opacity\":0.3500121533870697,\"bShowLines\":false,\"firingErrorScale\":1.0000330209732056,\"movementErrorScale\":1.0000330209732056}},\"focusMode\":{\"color\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"colorCustom\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"bUseCustomColor\":false,\"bHasOutline\":false,\"outlineThickness\":0,\"outlineColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"outlineOpacity\":0,\"centerDotSize\":0,\"centerDotOpacity\":0,\"bDisplayCenterDot\":false,\"bFadeCrosshairWithFiringError\":false,\"bShowSpectatedPlayerCrosshair\":false,\"bHideCrosshair\":false,\"bFixMinErrorAcrossWeapons\":false,\"innerLines\":{\"lineThickness\":0,\"lineLength\":0,\"lineLengthVertical\":0,\"bAllowVertScaling\":false,\"lineOffset\":0,\"bShowMovementError\":false,\"bShowShootingError\":false,\"bShowMinError\":false,\"opacity\":0,\"bShowLines\":false,\"firingErrorScale\":0,\"movementErrorScale\":0},\"outerLines\":{\"lineThickness\":0,\"lineLength\":0,\"lineLengthVertical\":0,\"bAllowVertScaling\":false,\"lineOffset\":0,\"bShowMovementError\":false,\"bShowShootingError\":false,\"bShowMinError\":false,\"opacity\":0,\"bShowLines\":false,\"firingErrorScale\":0,\"movementErrorScale\":0}},\"sniper\":{\"centerDotColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"centerDotColorCustom\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"bUseCustomCenterDotColor\":false,\"centerDotSize\":0.73807984590530396,\"centerDotOpacity\":0.36202025413513184,\"bDisplayCenterDot\":true},\"bUsePrimaryCrosshairForADS\":false,\"bUsePrimaryCrosshairForFocusMode\":false,\"bUseCustomCrosshairOnAllPrimary\":false,\"bUseAdvancedOptions\":true,\"bScaleToResolution\":false,\"profileName\":\"Imported Profile 2\"},{\"primary\":{\"color\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"colorCustom\":{\"b\":255,\"g\":246,\"r\":0,\"a\":255},\"bUseCustomColor\":false,\"bHasOutline\":false,\"outlineThickness\":1,\"outlineColor\":{\"b\":255,\"g\":0,\"r\":214,\"a\":255},\"outlineOpacity\":0.50036883354187012,\"centerDotSize\":2,\"centerDotOpacity\":1,\"bDisplayCenterDot\":false,\"bFadeCrosshairWithFiringError\":true,\"bShowSpectatedPlayerCrosshair\":true,\"bHideCrosshair\":false,\"bFixMinErrorAcrossWeapons\":false,\"innerLines\":{\"lineThickness\":2,\"lineLength\":4,\"lineLengthVertical\":4,\"bAllowVertScaling\":false,\"lineOffset\":0,\"bShowMovementError\":false,\"bShowShootingError\":false,\"bShowMinError\":true,\"opacity\":0.85237085819244385,\"bShowLines\":true,\"firingErrorScale\":1.0010933876037598,\"movementErrorScale\":1.0010933876037598},\"outerLines\":{\"lineThickness\":2,\"lineLength\":2,\"lineLengthVertical\":2,\"bAllowVertScaling\":false,\"lineOffset\":10,\"bShowMovementError\":true,\"bShowShootingError\":true,\"bShowMinError\":true,\"opacity\":0.35036882758140564,\"bShowLines\":false,\"firingErrorScale\":1.0010874271392822,\"movementErrorScale\":1.0010874271392822}},\"aDS\":{\"color\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"colorCustom\":{\"b\":255,\"g\":246,\"r\":0,\"a\":255},\"bUseCustomColor\":true,\"bHasOutline\":true,\"outlineThickness\":1,\"outlineColor\":{\"b\":255,\"g\":0,\"r\":214,\"a\":255},\"outlineOpacity\":0.50018340349197388,\"centerDotSize\":2,\"centerDotOpacity\":1,\"bDisplayCenterDot\":false,\"bFadeCrosshairWithFiringError\":false,\"bShowSpectatedPlayerCrosshair\":false,\"bHideCrosshair\":false,\"bFixMinErrorAcrossWeapons\":false,\"innerLines\":{\"lineThickness\":2,\"lineLength\":6,\"lineLengthVertical\":6,\"bAllowVertScaling\":false,\"lineOffset\":3,\"bShowMovementError\":false,\"bShowShootingError\":true,\"bShowMinError\":true,\"opacity\":0.80018848180770874,\"bShowLines\":true,\"firingErrorScale\":1.0005407333374023,\"movementErrorScale\":1.0005407333374023},\"outerLines\":{\"lineThickness\":2,\"lineLength\":2,\"lineLengthVertical\":2,\"bAllowVertScaling\":false,\"lineOffset\":10,\"bShowMovementError\":true,\"bShowShootingError\":true,\"bShowMinError\":true,\"opacity\":0.3501833975315094,\"bShowLines\":true,\"firingErrorScale\":1.000537633895874,\"movementErrorScale\":1.000537633895874}},\"focusMode\":{\"color\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"colorCustom\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"bUseCustomColor\":false,\"bHasOutline\":false,\"outlineThickness\":0,\"outlineColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"outlineOpacity\":0,\"centerDotSize\":0,\"centerDotOpacity\":0,\"bDisplayCenterDot\":false,\"bFadeCrosshairWithFiringError\":false,\"bShowSpectatedPlayerCrosshair\":false,\"bHideCrosshair\":false,\"bFixMinErrorAcrossWeapons\":false,\"innerLines\":{\"lineThickness\":0,\"lineLength\":0,\"lineLengthVertical\":0,\"bAllowVertScaling\":false,\"lineOffset\":0,\"bShowMovementError\":false,\"bShowShootingError\":false,\"bShowMinError\":false,\"opacity\":0,\"bShowLines\":false,\"firingErrorScale\":0,\"movementErrorScale\":0},\"outerLines\":{\"lineThickness\":0,\"lineLength\":0,\"lineLengthVertical\":0,\"bAllowVertScaling\":false,\"lineOffset\":0,\"bShowMovementError\":false,\"bShowShootingError\":false,\"bShowMinError\":false,\"opacity\":0,\"bShowLines\":false,\"firingErrorScale\":0,\"movementErrorScale\":0}},\"sniper\":{\"centerDotColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"centerDotColorCustom\":{\"b\":247,\"g\":0,\"r\":255,\"a\":255},\"bUseCustomCenterDotColor\":false,\"centerDotSize\":1.0007619857788086,\"centerDotOpacity\":0.75018846988677979,\"bDisplayCenterDot\":true},\"bUsePrimaryCrosshairForADS\":true,\"bUsePrimaryCrosshairForFocusMode\":false,\"bUseCustomCrosshairOnAllPrimary\":false,\"bUseAdvancedOptions\":true,\"bScaleToResolution\":false,\"profileName\":\"Imported Profile 3\"},{\"primary\":{\"color\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"colorCustom\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"bUseCustomColor\":true,\"bHasOutline\":false,\"outlineThickness\":1,\"outlineColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"outlineOpacity\":0.50025433301925659,\"centerDotSize\":2,\"centerDotOpacity\":1,\"bDisplayCenterDot\":false,\"bFadeCrosshairWithFiringError\":false,\"bShowSpectatedPlayerCrosshair\":true,\"bHideCrosshair\":false,\"bFixMinErrorAcrossWeapons\":false,\"innerLines\":{\"lineThickness\":2,\"lineLength\":4,\"lineLengthVertical\":4,\"bAllowVertScaling\":true,\"lineOffset\":0,\"bShowMovementError\":false,\"bShowShootingError\":false,\"bShowMinError\":true,\"opacity\":0.85225433111190796,\"bShowLines\":true,\"firingErrorScale\":1.0007539987564087,\"movementErrorScale\":1.0007539987564087},\"outerLines\":{\"lineThickness\":2,\"lineLength\":2,\"lineLengthVertical\":2,\"bAllowVertScaling\":false,\"lineOffset\":10,\"bShowMovementError\":true,\"bShowShootingError\":true,\"bShowMinError\":true,\"opacity\":0.35025432705879211,\"bShowLines\":false,\"firingErrorScale\":1.0007539987564087,\"movementErrorScale\":1.0007539987564087}},\"aDS\":{\"color\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"colorCustom\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"bUseCustomColor\":false,\"bHasOutline\":true,\"outlineThickness\":1,\"outlineColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"outlineOpacity\":0.50012463331222534,\"centerDotSize\":2,\"centerDotOpacity\":1,\"bDisplayCenterDot\":false,\"bFadeCrosshairWithFiringError\":false,\"bShowSpectatedPlayerCrosshair\":false,\"bHideCrosshair\":false,\"bFixMinErrorAcrossWeapons\":false,\"innerLines\":{\"lineThickness\":2,\"lineLength\":6,\"lineLengthVertical\":6,\"bAllowVertScaling\":false,\"lineOffset\":3,\"bShowMovementError\":false,\"bShowShootingError\":true,\"bShowMinError\":true,\"opacity\":0.80012869834899902,\"bShowLines\":true,\"firingErrorScale\":1.0003694295883179,\"movementErrorScale\":1.0003694295883179},\"outerLines\":{\"lineThickness\":2,\"lineLength\":2,\"lineLengthVertical\":2,\"bAllowVertScaling\":false,\"lineOffset\":10,\"bShowMovementError\":true,\"bShowShootingError\":true,\"bShowMinError\":true,\"opacity\":0.35012462735176086,\"bShowLines\":true,\"firingErrorScale\":1.0003694295883179,\"movementErrorScale\":1.0003694295883179}},\"focusMode\":{\"color\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"colorCustom\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"bUseCustomColor\":false,\"bHasOutline\":false,\"outlineThickness\":0,\"outlineColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"outlineOpacity\":0,\"centerDotSize\":0,\"centerDotOpacity\":0,\"bDisplayCenterDot\":false,\"bFadeCrosshairWithFiringError\":false,\"bShowSpectatedPlayerCrosshair\":false,\"bHideCrosshair\":false,\"bFixMinErrorAcrossWeapons\":false,\"innerLines\":{\"lineThickness\":0,\"lineLength\":0,\"lineLengthVertical\":0,\"bAllowVertScaling\":false,\"lineOffset\":0,\"bShowMovementError\":false,\"bShowShootingError\":false,\"bShowMinError\":false,\"opacity\":0,\"bShowLines\":false,\"firingErrorScale\":0,\"movementErrorScale\":0},\"outerLines\":{\"lineThickness\":0,\"lineLength\":0,\"lineLengthVertical\":0,\"bAllowVertScaling\":false,\"lineOffset\":0,\"bShowMovementError\":false,\"bShowShootingError\":false,\"bShowMinError\":false,\"opacity\":0,\"bShowLines\":false,\"firingErrorScale\":0,\"movementErrorScale\":0}},\"sniper\":{\"centerDotColor\":{\"b\":0,\"g\":0,\"r\":255,\"a\":255},\"centerDotColorCustom\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"bUseCustomCenterDotColor\":false,\"centerDotSize\":1.0005147457122803,\"centerDotOpacity\":0.75012868642807007,\"bDisplayCenterDot\":true},\"bUsePrimaryCrosshairForADS\":true,\"bUsePrimaryCrosshairForFocusMode\":false,\"bUseCustomCrosshairOnAllPrimary\":false,\"bUseAdvancedOptions\":true,\"bScaleToResolution\":false,\"profileName\":\"Imported Profile 4\"},{\"primary\":{\"color\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"colorCustom\":{\"b\":240,\"g\":16,\"r\":255,\"a\":255},\"bUseCustomColor\":false,\"bHasOutline\":true,\"outlineThickness\":1,\"outlineColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"outlineOpacity\":0.5,\"centerDotSize\":2,\"centerDotOpacity\":1,\"bDisplayCenterDot\":false,\"bFadeCrosshairWithFiringError\":false,\"bShowSpectatedPlayerCrosshair\":true,\"bHideCrosshair\":false,\"bFixMinErrorAcrossWeapons\":false,\"innerLines\":{\"lineThickness\":1,\"lineLength\":3,\"lineLengthVertical\":3,\"bAllowVertScaling\":false,\"lineOffset\":1,\"bShowMovementError\":false,\"bShowShootingError\":false,\"bShowMinError\":true,\"opacity\":1,\"bShowLines\":true,\"firingErrorScale\":1,\"movementErrorScale\":1},\"outerLines\":{\"lineThickness\":2,\"lineLength\":2,\"lineLengthVertical\":2,\"bAllowVertScaling\":false,\"lineOffset\":10,\"bShowMovementError\":true,\"bShowShootingError\":true,\"bShowMinError\":true,\"opacity\":0.34999999403953552,\"bShowLines\":false,\"firingErrorScale\":1,\"movementErrorScale\":1}},\"aDS\":{\"color\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"colorCustom\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"bUseCustomColor\":false,\"bHasOutline\":true,\"outlineThickness\":1,\"outlineColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"outlineOpacity\":0.5,\"centerDotSize\":2,\"centerDotOpacity\":1,\"bDisplayCenterDot\":false,\"bFadeCrosshairWithFiringError\":false,\"bShowSpectatedPlayerCrosshair\":false,\"bHideCrosshair\":false,\"bFixMinErrorAcrossWeapons\":false,\"innerLines\":{\"lineThickness\":2,\"lineLength\":6,\"lineLengthVertical\":6,\"bAllowVertScaling\":false,\"lineOffset\":3,\"bShowMovementError\":false,\"bShowShootingError\":true,\"bShowMinError\":true,\"opacity\":0.80000001192092896,\"bShowLines\":true,\"firingErrorScale\":1,\"movementErrorScale\":1},\"outerLines\":{\"lineThickness\":2,\"lineLength\":2,\"lineLengthVertical\":2,\"bAllowVertScaling\":false,\"lineOffset\":10,\"bShowMovementError\":true,\"bShowShootingError\":true,\"bShowMinError\":true,\"opacity\":0.34999999403953552,\"bShowLines\":true,\"firingErrorScale\":1,\"movementErrorScale\":1}},\"focusMode\":{\"color\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"colorCustom\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"bUseCustomColor\":false,\"bHasOutline\":false,\"outlineThickness\":0,\"outlineColor\":{\"b\":0,\"g\":0,\"r\":0,\"a\":255},\"outlineOpacity\":0,\"centerDotSize\":0,\"centerDotOpacity\":0,\"bDisplayCenterDot\":false,\"bFadeCrosshairWithFiringError\":false,\"bShowSpectatedPlayerCrosshair\":false,\"bHideCrosshair\":false,\"bFixMinErrorAcrossWeapons\":false,\"innerLines\":{\"lineThickness\":0,\"lineLength\":0,\"lineLengthVertical\":0,\"bAllowVertScaling\":false,\"lineOffset\":0,\"bShowMovementError\":false,\"bShowShootingError\":false,\"bShowMinError\":false,\"opacity\":0,\"bShowLines\":false,\"firingErrorScale\":0,\"movementErrorScale\":0},\"outerLines\":{\"lineThickness\":0,\"lineLength\":0,\"lineLengthVertical\":0,\"bAllowVertScaling\":false,\"lineOffset\":0,\"bShowMovementError\":false,\"bShowShootingError\":false,\"bShowMinError\":false,\"opacity\":0,\"bShowLines\":false,\"firingErrorScale\":0,\"movementErrorScale\":0}},\"sniper\":{\"centerDotColor\":{\"b\":255,\"g\":255,\"r\":255,\"a\":255},\"centerDotColorCustom\":{\"b\":60,\"g\":20,\"r\":220,\"a\":255},\"bUseCustomCenterDotColor\":false,\"centerDotSize\":0.81300002336502075,\"centerDotOpacity\":1,\"bDisplayCenterDot\":true},\"bUsePrimaryCrosshairForADS\":true,\"bUsePrimaryCrosshairForFocusMode\":false,\"bUseCustomCrosshairOnAllPrimary\":true,\"bUseAdvancedOptions\":true,\"bScaleToResolution\":false,\"profileName\":\"Imported Crosshair 09-30-2025 15:39:55\"}]}"
+    }
+  ]
+}
