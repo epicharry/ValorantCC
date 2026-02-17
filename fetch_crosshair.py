@@ -1,4 +1,5 @@
 import os, base64, json, zlib, requests, copy
+from crosshair_renderer import render_crosshair, render_grid, show_image
 
 requests.packages.urllib3.disable_warnings()
 
@@ -301,10 +302,14 @@ def main():
         print("  Valorant Crosshair Manager")
         print("========================================")
         print("  1) List current profiles")
-        print("  2) Add a preset crosshair")
-        print("  3) Set active profile")
-        print("  4) Save & push to server")
-        print("  5) Export decoded settings to file")
+        print("  2) Preview all presets")
+        print("  3) Preview a specific preset")
+        print("  4) Add a preset crosshair")
+        print("  5) Preview current profiles")
+        print("  6) Preview a specific profile")
+        print("  7) Set active profile")
+        print("  8) Save & push to server")
+        print("  9) Export decoded settings to file")
         print("  0) Exit")
         print("========================================")
 
@@ -315,6 +320,25 @@ def main():
             print_profiles(crosshair_data)
 
         elif choice == "2":
+            print("\nRendering all presets...")
+            preset_profiles = list(PRESETS.values())
+            grid = render_grid(preset_profiles, columns=3)
+            show_image(grid)
+
+        elif choice == "3":
+            preset_names = list(PRESETS.keys())
+            for i, name in enumerate(preset_names):
+                print(f"  [{i}] {name}")
+            sel = input("Select preset to preview: ").strip()
+            try:
+                idx_sel = int(sel)
+                name = preset_names[idx_sel]
+                img = render_crosshair(PRESETS[name])
+                show_image(img)
+            except (ValueError, IndexError):
+                print("  Invalid selection.")
+
+        elif choice == "4":
             print("\nAvailable presets:")
             preset_names = list(PRESETS.keys())
             for i, name in enumerate(preset_names):
@@ -328,12 +352,35 @@ def main():
                 try:
                     idx_sel = int(sel)
                     name = preset_names[idx_sel]
-                    idx = add_profile(crosshair_data, copy.deepcopy(PRESETS[name]))
-                    print(f"  Added '{name}' at index {idx}")
+                    print(f"\n  Previewing '{name}'...")
+                    img = render_crosshair(PRESETS[name])
+                    show_image(img)
+                    confirm = input(f"  Add '{name}' to profiles? (y/n): ").strip().lower()
+                    if confirm == "y":
+                        idx = add_profile(crosshair_data, copy.deepcopy(PRESETS[name]))
+                        print(f"  Added '{name}' at index {idx}")
+                    else:
+                        print("  Skipped.")
                 except (ValueError, IndexError):
                     print("  Invalid selection.")
 
-        elif choice == "3":
+        elif choice == "5":
+            print("\nRendering current profiles...")
+            grid = render_grid(crosshair_data["profiles"], columns=3)
+            show_image(grid)
+
+        elif choice == "6":
+            print_profiles(crosshair_data)
+            sel = input("Select profile to preview: ").strip()
+            try:
+                idx_sel = int(sel)
+                profile = crosshair_data["profiles"][idx_sel]
+                img = render_crosshair(profile)
+                show_image(img)
+            except (ValueError, IndexError):
+                print("  Invalid selection.")
+
+        elif choice == "7":
             print(f"\nCurrent active: {crosshair_data['currentProfile']}")
             print_profiles(crosshair_data)
             sel = input("Set active profile index: ").strip()
@@ -348,7 +395,7 @@ def main():
             except ValueError:
                 print("  Invalid number.")
 
-        elif choice == "4":
+        elif choice == "8":
             print("\nPushing settings to server...")
             set_crosshair_data(settings, crosshair_data)
             status, resp = save_settings(headers, raw_response, settings)
@@ -359,7 +406,7 @@ def main():
             crosshair_data = get_crosshair_data(settings)
             print("  Settings saved and re-fetched successfully.")
 
-        elif choice == "5":
+        elif choice == "9":
             out = "decoded_settings.json"
             with open(out, "w") as f:
                 json.dump(settings, f, indent=2)
